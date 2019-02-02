@@ -1,0 +1,11 @@
+leipomo
+kaupunki
+sateenkaari
+ullakko
+ilmasto
+avaruus
+kirjolohi
+ruisleipä
+automaatti
+kissa
+taulukko
